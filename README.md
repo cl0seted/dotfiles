@@ -11,7 +11,7 @@ I intend to add a dependency list that you can pipe into pacman, or a script tha
 
 Until then, run the following command to install all the necessary dependencies
 ```bash
-sudo pacman -S ghostty hyprland hyprpaper hyprshot waypaper waybar
+sudo pacman -S --needed ghostty hyprland hyprpaper hyprshot waypaper waybar
 ``` 
 
 ## Installation
