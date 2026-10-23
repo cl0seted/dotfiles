@@ -22,6 +22,7 @@ hl.monitor({
     scale    = "auto",
 })
 
+require("./monitors.lua")
 
 ---------------------
 ---- MY PROGRAMS ----
